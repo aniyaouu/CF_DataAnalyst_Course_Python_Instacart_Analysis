@@ -1,1 +1,1 @@
-# CF DataAnalyst Course - Python
+# CF DataAnalyst Course - Python - Instacart Analysis
