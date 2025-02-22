@@ -42,3 +42,23 @@ Age? Income? Certain types of goods? Family status?
   - What differences can you find in ordering habits of different customer
 profiles? Consider the price of orders, the frequency of orders, the products
 customers are ordering, and anything else you can think of.
+
+## Stakeholders
+- Vice President of Marketing: “We’re always looking into improving our targeting for
+ad campaigns.
+”
+- Senior Vice President of Sales: “We need to know what part of our offering has the
+lowest market share and why. Based on this input, we could improve this sector and
+boost sales.
+”
+- Instacart Customer: “I want to receive ads, promotions, and recommendations that
+are relevant to the products I order regularly."
+
+## CareerFoundry Data Sets:
+- [Customers Data Set](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
+
+## Instacart Data Sets:
+- [Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
+- Citation (required in your final report): “The Instacart Online Grocery Shopping
+Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017
+via [Kaggle](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis) on <date>.
